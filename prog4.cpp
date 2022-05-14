@@ -1,15 +1,15 @@
-/* Autor: Andriks Imanol Ruiz Martínez, Realizado: 03/02/2022 
+/* Autor: Andriks Imanol Ruiz MartÃ­nez, Realizado: 03/02/2022 
 	Escuela: Universidad del Valle de Mexico Campus Villahermosa
-	Materia: Programación Estructrada
+	Materia: ProgramaciÃ³n Estructrada
 	Ciclo: 01/2022
-   Este es un programa de la estructura básica de Lenguaje C de la materia de Programación Estructurada<br>
+   Este es un programa de la estructura bÃ¡sica de Lenguaje C de la materia de ProgramaciÃ³n Estructurada<br>
 	Muestra el uso de:
     -Variables flotantes.
     -printf para mostrar varias variables.
     -scanf.
     -El uso de include para las librerias.
-    -math.h para habiliar operaciones matemáticas.
-	-Comentarios para la doumentación interna del programa.
+    -math.h para habiliar operaciones matemÃ¡ticas.
+	-Comentarios para la documentaciÃ³n interna del programa.
 	*/
 #include<stdio.h>
 #include<math.h>
