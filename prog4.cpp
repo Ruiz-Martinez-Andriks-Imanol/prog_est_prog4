@@ -13,7 +13,6 @@
 	*/
 #include<stdio.h>
 #include<math.h>
-
 int main(){
 	float r, a;
 	//Entrada de datos
@@ -23,6 +22,5 @@ int main(){
 	a=M_PI*pow(r,2);
 	//Salida
 	printf("El area de un circulo es %f", a);
-	
 	return 0;
 }
